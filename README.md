@@ -12,7 +12,7 @@
     <img src="../images/pizza.jpg" alt="Pizza">
 
     <h3>Description:<h3>
-    <p>Pizza, dish of Italian origin consisting of a flattened disk of bread dough top>
+      <p>Pizza, dish of Italian origin consisting of a flattened disk of bread dough top</p>
 
     <p><h3>Ingredients:<h3></p>
     <p><ul>
