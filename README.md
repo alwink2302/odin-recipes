@@ -15,7 +15,7 @@
       <p>Pizza, dish of Italian origin consisting of a flattened disk of bread dough top</p>
 
     <p><h3>Ingredients:<h3></p>
-    <p><ul>
+    <ul>
       <li>Cheese</li>
       <li>Pizza Dough</li>
       <li>Flour</li>
@@ -24,7 +24,7 @@
     </ul>
 
     <p><h3>Steps:<h3></p>
-    <p><ol>
+    <ol>
       <li>Get It Ready. open the dough and unwrapped it and pat it out and put the che>
       <li>Put It in the Oven. set the oven on 475 degrees put the pizza in the oven an>
       <li>Enjoy It. take it out and enjoy.</li>
