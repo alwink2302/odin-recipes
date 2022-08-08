@@ -9,7 +9,7 @@
   </head>
 
   <body>
-    <h> Pizza Recipe: </h>
+    <h2> Pizza Recipe: </h2>
     <img src="../images/pizza.jpg" alt="Pizza">
 
     <h3>Description:<h3>
