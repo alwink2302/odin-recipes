@@ -1,4 +1,5 @@
 # odin-recipes                                                             
+
 <!DOCTYPE html>
 <html>
 
@@ -8,7 +9,7 @@
   </head>
 
   <body>
-    <h1>Pizza Recipe:</h1>
+    <h1> Pizza Recipe: </h1>
     <img src="../images/pizza.jpg" alt="Pizza">
 
     <h3>Description:<h3>
